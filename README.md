@@ -7,7 +7,9 @@ qwen2_5vl_full_sft.yaml标注了需要修改的条目
 
 ## in-domain
 数据在gaotiexinqu/tmp/v3下
+
 vllm_infer_qwen_mi.py
+in-domain评测代码eval.py
 
 
 
